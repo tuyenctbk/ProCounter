@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pro Counter</string>
+    <string name="permission_denied_close_app">Permissions denied. Closing app!</string>
 </resources>
